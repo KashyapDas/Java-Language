@@ -31,5 +31,6 @@ public class ArrayInJava {
             System.out.println(marks[j]);
         }
 
+        
     }
 }
