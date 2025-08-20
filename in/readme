@@ -1,0 +1,5 @@
+In java we donot need destructor as it uses a Garbage Collector(GC) that automatically delete the object that are no longer referenced or unused
+
+Since, memory management is automatic, therefore we need no to use destructor in java. But, in the early time there was a method called finialize() which was like destructor but now it was deprecated.
+
+Now, instead of using destructor, java provide try,catch,finally block for auto closing resources like file, socket.io, DB connections etc.
