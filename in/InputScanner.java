@@ -12,7 +12,7 @@ public class InputScanner {
         System.out.print("Enter your age");
         int age = sc.nextInt();
         sc.nextLine();
-        System.out.println("Your age is : "+age);        
+        System.out.println("Your age is : "+age);     
 
         // Take input only single word
         System.out.print("Enter your name : ");
