@@ -1,4 +1,3 @@
-package in;
 
 class BaseClass{
     String name = "Kashyap";

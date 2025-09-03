@@ -1,4 +1,3 @@
-package in;
 
 public class NonPrimitive {
     public static void main(String[] agrs)

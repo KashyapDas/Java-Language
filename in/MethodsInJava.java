@@ -1,4 +1,3 @@
-package in;
 
 public class MethodsInJava {
 

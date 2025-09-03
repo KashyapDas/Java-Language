@@ -1,4 +1,3 @@
-package in;
 
 class OurStudent{
     String name;

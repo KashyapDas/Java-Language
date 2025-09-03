@@ -1,4 +1,3 @@
-package in;
 
 public class LoopInJava {
     public static void main(String[] args)

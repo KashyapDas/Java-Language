@@ -1,4 +1,3 @@
-package in;
 
 public class OperatorInJava {
     public static void main(String[] agrs)

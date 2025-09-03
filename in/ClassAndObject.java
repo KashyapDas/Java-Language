@@ -1,4 +1,3 @@
-package in;
 
 class Marks{
     int maths;
