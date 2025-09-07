@@ -1,3 +1,4 @@
+// reverse a digit 
 
 import java.util.Scanner;
 public class Program6 {

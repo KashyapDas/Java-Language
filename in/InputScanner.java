@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class InputScanner {
     public static void main(String[] agrs)
     {
-        @SuppressWarnings("resource")
         Scanner sc = new Scanner(System.in);
 
         // Taking input and print it as an output

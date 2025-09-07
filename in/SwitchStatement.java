@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class SwitchStatement {
     public static void main(String[] agrs)
     {
-        @SuppressWarnings("resource")
         Scanner sc = new Scanner(System.in);
         int day = sc.nextInt();
 
