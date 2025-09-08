@@ -27,6 +27,8 @@ public class MiniProject {
         }while(userNumber >=0);
         
         System.out.println("My number was : "+myNumber);
+
+        sc.close();
     }
     
 }

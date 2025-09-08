@@ -22,5 +22,7 @@ public class InputScanner {
         String fullName = sc.nextLine();
         System.out.println(fullName);
 
+        sc.close();
+
     }
 }

@@ -13,5 +13,7 @@ public class Programtwo {
             sum += i;
         }
         System.out.println("The sum of the n natural number is : "+sum);
+
+        sc.close();
     }    
 }

@@ -22,5 +22,6 @@ public class SwitchStatement {
             default :
                 System.out.println("Put 1,2,3");
         }
+        sc.close();
     }    
 }
