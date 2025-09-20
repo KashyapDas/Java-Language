@@ -1,10 +1,1 @@
-====    How to compile the .java file   ========
 
-    COMMAND : javac -d out in/*.java
-    BTS : This will create a "in" folder inside the "out" folder and inside that all the .class file were present.
-
-
-====    How to run the .class file  ====
-
-    COMMAND : java -cp out in.FileName
-    BTS : This is go inside the "in" folder present inside the "out" folder and run that .class file create corresponding to that .java file. 
